@@ -1,0 +1,35 @@
+C:\Visual Studio\AutomaticClock\AutomaticClock\bin\Debug\net6.0-windows\AutomaticClock.exe
+C:\Visual Studio\AutomaticClock\AutomaticClock\bin\Debug\net6.0-windows\AutomaticClock.deps.json
+C:\Visual Studio\AutomaticClock\AutomaticClock\bin\Debug\net6.0-windows\AutomaticClock.runtimeconfig.json
+C:\Visual Studio\AutomaticClock\AutomaticClock\bin\Debug\net6.0-windows\AutomaticClock.dll
+C:\Visual Studio\AutomaticClock\AutomaticClock\bin\Debug\net6.0-windows\AutomaticClock.pdb
+C:\Visual Studio\AutomaticClock\AutomaticClock\obj\Debug\net6.0-windows\AutomaticClock.vbproj.AssemblyReference.cache
+C:\Visual Studio\AutomaticClock\AutomaticClock\obj\Debug\net6.0-windows\AutomaticClock.Form1.resources
+C:\Visual Studio\AutomaticClock\AutomaticClock\obj\Debug\net6.0-windows\AutomaticClock.vbproj.GenerateResource.cache
+C:\Visual Studio\AutomaticClock\AutomaticClock\obj\Debug\net6.0-windows\AutomaticClock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio\AutomaticClock\AutomaticClock\obj\Debug\net6.0-windows\AutomaticClock.AssemblyInfoInputs.cache
+C:\Visual Studio\AutomaticClock\AutomaticClock\obj\Debug\net6.0-windows\AutomaticClock.AssemblyInfo.vb
+C:\Visual Studio\AutomaticClock\AutomaticClock\obj\Debug\net6.0-windows\AutomaticClock.vbproj.CoreCompileInputs.cache
+C:\Visual Studio\AutomaticClock\AutomaticClock\obj\Debug\net6.0-windows\AutomaticClock.dll
+C:\Visual Studio\AutomaticClock\AutomaticClock\obj\Debug\net6.0-windows\refint\AutomaticClock.dll
+C:\Visual Studio\AutomaticClock\AutomaticClock\obj\Debug\net6.0-windows\AutomaticClock.pdb
+C:\Visual Studio\AutomaticClock\AutomaticClock\obj\Debug\net6.0-windows\AutomaticClock.genruntimeconfig.cache
+C:\Visual Studio\AutomaticClock\AutomaticClock\obj\Debug\net6.0-windows\ref\AutomaticClock.dll
+C:\Users\ye23v6ln\Downloads\AutomaticClock\AutomaticClock\bin\Debug\net6.0-windows\AutomaticClock.exe
+C:\Users\ye23v6ln\Downloads\AutomaticClock\AutomaticClock\bin\Debug\net6.0-windows\AutomaticClock.deps.json
+C:\Users\ye23v6ln\Downloads\AutomaticClock\AutomaticClock\bin\Debug\net6.0-windows\AutomaticClock.runtimeconfig.json
+C:\Users\ye23v6ln\Downloads\AutomaticClock\AutomaticClock\bin\Debug\net6.0-windows\AutomaticClock.dll
+C:\Users\ye23v6ln\Downloads\AutomaticClock\AutomaticClock\bin\Debug\net6.0-windows\AutomaticClock.pdb
+C:\Users\ye23v6ln\Downloads\AutomaticClock\AutomaticClock\obj\Debug\net6.0-windows\AutomaticClock.vbproj.AssemblyReference.cache
+C:\Users\ye23v6ln\Downloads\AutomaticClock\AutomaticClock\obj\Debug\net6.0-windows\AutomaticClock.Form1.resources
+C:\Users\ye23v6ln\Downloads\AutomaticClock\AutomaticClock\obj\Debug\net6.0-windows\AutomaticClock.vbproj.GenerateResource.cache
+C:\Users\ye23v6ln\Downloads\AutomaticClock\AutomaticClock\obj\Debug\net6.0-windows\AutomaticClock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ye23v6ln\Downloads\AutomaticClock\AutomaticClock\obj\Debug\net6.0-windows\AutomaticClock.AssemblyInfoInputs.cache
+C:\Users\ye23v6ln\Downloads\AutomaticClock\AutomaticClock\obj\Debug\net6.0-windows\AutomaticClock.AssemblyInfo.vb
+C:\Users\ye23v6ln\Downloads\AutomaticClock\AutomaticClock\obj\Debug\net6.0-windows\AutomaticClock.vbproj.CoreCompileInputs.cache
+C:\Users\ye23v6ln\Downloads\AutomaticClock\AutomaticClock\obj\Debug\net6.0-windows\AutomaticClock.dll
+C:\Users\ye23v6ln\Downloads\AutomaticClock\AutomaticClock\obj\Debug\net6.0-windows\refint\AutomaticClock.dll
+C:\Users\ye23v6ln\Downloads\AutomaticClock\AutomaticClock\obj\Debug\net6.0-windows\AutomaticClock.pdb
+C:\Users\ye23v6ln\Downloads\AutomaticClock\AutomaticClock\obj\Debug\net6.0-windows\AutomaticClock.genruntimeconfig.cache
+C:\Users\ye23v6ln\Downloads\AutomaticClock\AutomaticClock\obj\Debug\net6.0-windows\ref\AutomaticClock.dll
+C:\Users\ye23v6ln\Downloads\AutomaticClock\AutomaticClock\obj\Debug\net6.0-windows\AutomaticClock.Resources.resources
