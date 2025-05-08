@@ -1,0 +1,12 @@
+C:\Users\Sodha\Desktop\price calculator\price calculator\bin\Debug\price calculator.exe.config
+C:\Users\Sodha\Desktop\price calculator\price calculator\bin\Debug\price calculator.exe
+C:\Users\Sodha\Desktop\price calculator\price calculator\bin\Debug\price calculator.pdb
+C:\Users\Sodha\Desktop\price calculator\price calculator\bin\Debug\price calculator.xml
+C:\Users\Sodha\Desktop\price calculator\price calculator\obj\Debug\price calculator.vbproj.AssemblyReference.cache
+C:\Users\Sodha\Desktop\price calculator\price calculator\obj\Debug\price_calculator.Form1.resources
+C:\Users\Sodha\Desktop\price calculator\price calculator\obj\Debug\price_calculator.Resources.resources
+C:\Users\Sodha\Desktop\price calculator\price calculator\obj\Debug\price calculator.vbproj.GenerateResource.cache
+C:\Users\Sodha\Desktop\price calculator\price calculator\obj\Debug\price calculator.vbproj.CoreCompileInputs.cache
+C:\Users\Sodha\Desktop\price calculator\price calculator\obj\Debug\price calculator.exe
+C:\Users\Sodha\Desktop\price calculator\price calculator\obj\Debug\price calculator.xml
+C:\Users\Sodha\Desktop\price calculator\price calculator\obj\Debug\price calculator.pdb
