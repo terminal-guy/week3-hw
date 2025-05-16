@@ -1,6 +1,3 @@
-# week3-hw
-
-
 Private Sub btnIfThen_Click(sender As Object, e As EventArgs) Handles btnIfThen.Click
     Dim score As Integer = Val(txtScore.Text)
     Dim grade As String
@@ -19,6 +16,31 @@ Private Sub btnIfThen_Click(sender As Object, e As EventArgs) Handles btnIfThen.
     Else
         grade = "F"
     End If
+
+    lblResult.Text = "Grade: " & grade
+End Sub
+
+
+
+Private Sub btnSelectCase_Click(sender As Object, e As EventArgs) Handles btnSelectCase.Click
+    Dim score As Integer = Val(txtScore.Text)
+    Dim grade As String
+
+    Select Case score
+        Case Is >= 95
+            grade = "A+"
+            MessageBox.Show("Excellent! You got an A+")
+        Case 90 To 94
+            grade = "A"
+        Case 80 To 89
+            grade = "B"
+        Case 70 To 79
+            grade = "C"
+        Case 60 To 69
+            grade = "D"
+        Case Else
+            grade = "F"
+    End Select
 
     lblResult.Text = "Grade: " & grade
 End Sub
