@@ -1,0 +1,13 @@
+C:\Users\ye23v6ln\source\repos\gradeslol\gradeslol\bin\Debug\gradeslol.exe.config
+C:\Users\ye23v6ln\source\repos\gradeslol\gradeslol\bin\Debug\gradeslol.exe
+C:\Users\ye23v6ln\source\repos\gradeslol\gradeslol\bin\Debug\gradeslol.pdb
+C:\Users\ye23v6ln\source\repos\gradeslol\gradeslol\bin\Debug\gradeslol.xml
+C:\Users\ye23v6ln\source\repos\gradeslol\gradeslol\obj\Debug\gradeslol.vbproj.AssemblyReference.cache
+C:\Users\ye23v6ln\source\repos\gradeslol\gradeslol\obj\Debug\gradeslol.Form1.resources
+C:\Users\ye23v6ln\source\repos\gradeslol\gradeslol\obj\Debug\gradeslol.Resources.resources
+C:\Users\ye23v6ln\source\repos\gradeslol\gradeslol\obj\Debug\gradeslol.vbproj.GenerateResource.cache
+C:\Users\ye23v6ln\source\repos\gradeslol\gradeslol\obj\Debug\gradeslol.vbproj.CoreCompileInputs.cache
+C:\Users\ye23v6ln\source\repos\gradeslol\gradeslol\obj\Debug\gradeslol.exe
+C:\Users\ye23v6ln\source\repos\gradeslol\gradeslol\obj\Debug\gradeslol.xml
+C:\Users\ye23v6ln\source\repos\gradeslol\gradeslol\obj\Debug\gradeslol.pdb
+C:\Users\ye23v6ln\source\repos\gradeslol\gradeslol\obj\Debug\gradeslol.exe.config
