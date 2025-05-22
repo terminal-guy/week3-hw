@@ -1,43 +1,25 @@
-Private Sub btnExit_Click(sender As Object, e As EventArgs) Handles btnExit.Click
-    End
-End Sub
+Private Sub ComputeValues()
+    Dim height As Double = Val(txtHeight.Text)
+    Dim weight As Double = Val(txtWeight.Text)
 
-Private Sub btnIfThen_Click(sender As Object, e As EventArgs) Handles btnIfThen.Click
-    Dim score = CType(txtScore.Text, Integer)
-    lblGrade.BackColor = Color.LightGreen
+    If height > 0 AndAlso weight > 0 Then
+        Dim height_m As Double = height / 100
+        Dim bmi As Double = weight / (height_m ^ 2)
+        Dim stdWeight As Double = (height - 100) * 0.9
 
-    If (score >= 90) Then
-        lblGrade.Text = "A+"
-        MessageBox.Show("Congratulations!!", "MyStudentGrader")
-    ElseIf (score >= 80) Then
-        lblGrade.Text = "A"
-    ElseIf (score >= 70) Then
-        lblGrade.Text = "B"
-    ElseIf (score >= 60) Then
-        lblGrade.Text = "C"
+        lblBMI.Text = Format(bmi, "0.0")
+        lblStdWeight.Text = Format(stdWeight, "0.0")
+
+        If bmi < 18.5 Then
+            lblStatus.Text = "Underweight"
+        ElseIf bmi < 25 Then
+            lblStatus.Text = "Normal"
+        Else
+            lblStatus.Text = "Overweight"
+        End If
     Else
-        lblGrade.Text = "F"
-        lblGrade.BackColor = Color.IndianRed
+        lblBMI.Text = ""
+        lblStdWeight.Text = ""
+        lblStatus.Text = "Undetermined"
     End If
-End Sub
-
-
-Private Sub btnSelectCase_Click(sender As Object, e As EventArgs) Handles btnSelectCase.Click
-    Dim score = CType(txtScore.Text, Integer)
-    lblGrade.BackColor = Color.LightGreen
-
-    Select Case score
-        Case Is >= 90
-            lblGrade.Text = "A+"
-            MessageBox.Show("Congratulations!!", "MyStudentGrader")
-        Case Is >= 80
-            lblGrade.Text = "A"
-        Case Is >= 70
-            lblGrade.Text = "B"
-        Case Is >= 60
-            lblGrade.Text = "C"
-        Case Else
-            lblGrade.Text = "F"
-            lblGrade.BackColor = Color.IndianRed
-    End Select
 End Sub
