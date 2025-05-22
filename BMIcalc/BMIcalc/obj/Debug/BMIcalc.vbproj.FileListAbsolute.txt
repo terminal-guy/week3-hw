@@ -1,0 +1,13 @@
+C:\Visual Studio\BMIcalc\BMIcalc\bin\Debug\BMIcalc.exe.config
+C:\Visual Studio\BMIcalc\BMIcalc\bin\Debug\BMIcalc.exe
+C:\Visual Studio\BMIcalc\BMIcalc\bin\Debug\BMIcalc.pdb
+C:\Visual Studio\BMIcalc\BMIcalc\bin\Debug\BMIcalc.xml
+C:\Visual Studio\BMIcalc\BMIcalc\obj\Debug\BMIcalc.vbproj.AssemblyReference.cache
+C:\Visual Studio\BMIcalc\BMIcalc\obj\Debug\BMIcalc.vbproj.SuggestedBindingRedirects.cache
+C:\Visual Studio\BMIcalc\BMIcalc\obj\Debug\BMIcalc.Form1.resources
+C:\Visual Studio\BMIcalc\BMIcalc\obj\Debug\BMIcalc.Resources.resources
+C:\Visual Studio\BMIcalc\BMIcalc\obj\Debug\BMIcalc.vbproj.GenerateResource.cache
+C:\Visual Studio\BMIcalc\BMIcalc\obj\Debug\BMIcalc.vbproj.CoreCompileInputs.cache
+C:\Visual Studio\BMIcalc\BMIcalc\obj\Debug\BMIcalc.exe
+C:\Visual Studio\BMIcalc\BMIcalc\obj\Debug\BMIcalc.xml
+C:\Visual Studio\BMIcalc\BMIcalc\obj\Debug\BMIcalc.pdb
