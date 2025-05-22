@@ -23,3 +23,16 @@ Private Sub ComputeValues()
         lblStatus.Text = "Undetermined"
     End If
 End Sub
+
+
+
+
+
+Private Sub txtHeight_TextChanged(sender As Object, e As EventArgs) Handles txtHeight.TextChanged
+    ComputeValues()
+End Sub
+
+Private Sub txtWeight_TextChanged(sender As Object, e As EventArgs) Handles txtWeight.TextChanged
+    ComputeValues()
+End Sub
+
