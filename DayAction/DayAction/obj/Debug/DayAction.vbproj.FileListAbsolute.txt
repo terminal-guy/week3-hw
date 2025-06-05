@@ -1,0 +1,13 @@
+C:\Visual Studio\DayAction\DayAction\bin\Debug\DayAction.exe.config
+C:\Visual Studio\DayAction\DayAction\bin\Debug\DayAction.exe
+C:\Visual Studio\DayAction\DayAction\bin\Debug\DayAction.pdb
+C:\Visual Studio\DayAction\DayAction\bin\Debug\DayAction.xml
+C:\Visual Studio\DayAction\DayAction\obj\Debug\DayAction.vbproj.AssemblyReference.cache
+C:\Visual Studio\DayAction\DayAction\obj\Debug\DayAction.vbproj.SuggestedBindingRedirects.cache
+C:\Visual Studio\DayAction\DayAction\obj\Debug\DayAction.Form1.resources
+C:\Visual Studio\DayAction\DayAction\obj\Debug\DayAction.Resources.resources
+C:\Visual Studio\DayAction\DayAction\obj\Debug\DayAction.vbproj.GenerateResource.cache
+C:\Visual Studio\DayAction\DayAction\obj\Debug\DayAction.vbproj.CoreCompileInputs.cache
+C:\Visual Studio\DayAction\DayAction\obj\Debug\DayAction.exe
+C:\Visual Studio\DayAction\DayAction\obj\Debug\DayAction.xml
+C:\Visual Studio\DayAction\DayAction\obj\Debug\DayAction.pdb
