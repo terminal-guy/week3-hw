@@ -19,3 +19,6 @@ Private Sub btnGCD_Click(sender As Object, e As EventArgs) Handles btnGCD.Click
     lstData.Items.Add("Converged!")
     lstData.Items.Add("GCD = " & a)
 End Sub
+
+
+        lstData.Items.Add("After Cycle [" & cycle & "]: (a = " & a & ", b = " & b & ")")
