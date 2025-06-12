@@ -1,0 +1,13 @@
+C:\Visual Studio\GCD\GCD\bin\Debug\GCD.exe.config
+C:\Visual Studio\GCD\GCD\bin\Debug\GCD.exe
+C:\Visual Studio\GCD\GCD\bin\Debug\GCD.pdb
+C:\Visual Studio\GCD\GCD\bin\Debug\GCD.xml
+C:\Visual Studio\GCD\GCD\obj\Debug\GCD.vbproj.AssemblyReference.cache
+C:\Visual Studio\GCD\GCD\obj\Debug\GCD.vbproj.SuggestedBindingRedirects.cache
+C:\Visual Studio\GCD\GCD\obj\Debug\GCD.Form1.resources
+C:\Visual Studio\GCD\GCD\obj\Debug\GCD.Resources.resources
+C:\Visual Studio\GCD\GCD\obj\Debug\GCD.vbproj.GenerateResource.cache
+C:\Visual Studio\GCD\GCD\obj\Debug\GCD.vbproj.CoreCompileInputs.cache
+C:\Visual Studio\GCD\GCD\obj\Debug\GCD.exe
+C:\Visual Studio\GCD\GCD\obj\Debug\GCD.xml
+C:\Visual Studio\GCD\GCD\obj\Debug\GCD.pdb
